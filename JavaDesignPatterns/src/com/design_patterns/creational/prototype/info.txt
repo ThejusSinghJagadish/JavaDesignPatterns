@@ -1,0 +1,3 @@
+Prototype design pattern is used to describe the 
+creation of objects using prototypical instances 
+and create new objects by copying this prototype.
